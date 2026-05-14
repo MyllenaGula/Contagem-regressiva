@@ -3,8 +3,8 @@
 
 :root{
     --cor-de-fundo: #000000;
-    --verde: #330202;
-    --branco: #e4dddd;
+    --bordô: #330202;
+    --cinza: #e4dddd;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
